@@ -1,0 +1,10 @@
+#header{
+	display: flex;
+	flex-direction: row;
+	height:10%;
+	width: 100%;
+}
+#navigation{
+	color: aqua;
+	background-color: aqua;
+}
